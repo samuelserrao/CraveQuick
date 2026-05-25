@@ -25,4 +25,3 @@ dist-ssr
 
 # Backend local files
 backend/node_modules
-backend/.env
